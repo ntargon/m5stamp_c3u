@@ -33,6 +33,6 @@ extern "C" void app_main(void) {
         leds.color(0, r, g, b);
         leds.update();
         printf("(r, g, b) = (%d, %d, %d)\n", r, g, b);
-        vTaskDelay(1000 / portTICK_PERIOD_MS);
+        vTaskDelay(100 / portTICK_PERIOD_MS);
     }
 }
