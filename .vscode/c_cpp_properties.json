@@ -10,6 +10,8 @@
             "includePath": [
                 "/Users/naoki/workspaces/m5stamp_c3u/include",
                 "/Users/naoki/workspaces/m5stamp_c3u/src",
+                "/Users/naoki/workspaces/m5stamp_c3u/.pio/libdeps/esp32-c3-devkitm-1/htcw_rmt_led_strip/include",
+                "/Users/naoki/workspaces/m5stamp_c3u/.pio/libdeps/esp32-c3-devkitm-1/htcw_rmt_led_strip/src",
                 "/Users/naoki/workspaces/m5stamp_c3u/.pio/libdeps/esp32-c3-devkitm-1/M5Unified/src",
                 "/Users/naoki/workspaces/m5stamp_c3u/.pio/libdeps/esp32-c3-devkitm-1/M5GFX/src",
                 "/Users/naoki/.platformio/packages/framework-espidf/components/riscv/include",
@@ -155,6 +157,8 @@
                 "path": [
                     "/Users/naoki/workspaces/m5stamp_c3u/include",
                     "/Users/naoki/workspaces/m5stamp_c3u/src",
+                    "/Users/naoki/workspaces/m5stamp_c3u/.pio/libdeps/esp32-c3-devkitm-1/htcw_rmt_led_strip/include",
+                    "/Users/naoki/workspaces/m5stamp_c3u/.pio/libdeps/esp32-c3-devkitm-1/htcw_rmt_led_strip/src",
                     "/Users/naoki/workspaces/m5stamp_c3u/.pio/libdeps/esp32-c3-devkitm-1/M5Unified/src",
                     "/Users/naoki/workspaces/m5stamp_c3u/.pio/libdeps/esp32-c3-devkitm-1/M5GFX/src",
                     "/Users/naoki/.platformio/packages/framework-espidf/components/riscv/include",
